@@ -9,3 +9,4 @@ typing_extensions==4.14.1
 django-filter==24.2
 Markdown==3.6
 drf-yasg
+requests==2.31.0

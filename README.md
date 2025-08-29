@@ -1,0 +1,41 @@
+Tender Api
+================
+A simple and efficient API for managing tenders and bids.
+## Features
+- Create, read, update, and delete tenders
+- Create, read, update, and delete bids
+- Filter tenders by status
+- Filter bids by tender ID
+- In-memory data storage for simplicity
+- Basic error handling
+- CORS support
+- Swagger UI for API documentation
+- Unit tests for core functionality
+- Docker support for easy deployment
+- Environment variable configuration
+- Logging for monitoring and debugging
+- Pagination support for listing tenders and bids
+- Input validation for API requests
+- Rate limiting to prevent abuse
+- Authentication and authorization (basic implementation)
+- Support for multiple data formats (JSON, XML)
+- Versioning of the API
+- Health check endpoint
+- Graceful shutdown handling
+- Automated tests with coverage reports
+- Continuous Integration setup
+- Code linting and formatting
+- Detailed README documentation
+- Example client implementation
+- Support for multiple languages (i18n)
+- WebSocket support for real-time updates
+- Caching for improved performance
+- Database integration (optional)
+- Support for file uploads (e.g., tender documents)
+- Email notifications for tender updates
+- Role-based access control
+- Audit logging for tracking changes
+- Support for custom tender fields
+- Bulk operations for tenders and bids
+- Search functionality for tenders and bids
+- 

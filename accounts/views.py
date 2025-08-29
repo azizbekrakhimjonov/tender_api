@@ -32,4 +32,4 @@ def delete_items(request, pk):
         return Response(status=status.HTTP_404_NOT_FOUND)
 
     employee.delete()
-    return Response({"message": "Employee deleted successfully"}, status=status.HTTP_204_NO_CONTENT)
+    return Response({"message": "Consumer deleted successfully"}, status=status.HTTP_204_NO_CONTENT)
